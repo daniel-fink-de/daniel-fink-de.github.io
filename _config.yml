@@ -89,7 +89,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "daniel.fink.phd@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://me.dansoft.de"
+  uri              : #"https://me.dansoft.de"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/u/4180219" # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "4180219" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
