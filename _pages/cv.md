@@ -11,21 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **2022 - now:** Ph.D. in Simulation Technology
+  + Stochastic Processes, Quantum Machine Learning
+  + University of Stuttgart, Germany
+* **2019 - 2022:** M.Sc. in Simulation Technology, 
+  + Quantum Computing, Machine Learning
+  + University of Stuttgart, Germany
+* **2020 - 2021:** Academic Exchange Year
+  + Machine Learning, Particle Physics
+  + National Taiwan University, Taiwan
+* **2015 - 2019:** B.Sc. in Simulation Technology, 
+  + Quantum Mechanics, Functional Calculus
+  + University of Stuttgart, Germany
+* **2013 - 2015:** General University Entrance Qualification, 
+  + Mathematics, Physics
+  + Technical High School of Stuttgart, Germany
+* **2010 - 2013:** Computer Science Expert
+  + Apprenticeship, DevOps
+  + Vocational College of Goeppingen, Germany
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2022 - now:** Doctoral Researcher
+  + Group of Prof. Christian Holm
+  + Institute for Computational Physics
+  + University of Stuttgart, Germany
+* **2022 - now:** CTO & Co-Founder
+  + Sector: Financial Technology
+  + Lean Financial Solutions
+  + Basel, Switzerland
+* **2020 - 2021:** Scientific Assistent
+  + Project PlanQK, Project Quantum Humanities
+  + Group of Prof. Frank Leymann
+  + Institute for Architecture for Application Systems
+  + University of Stuttgart, Germany
+* **2016 - 2019:** Various Tutor Positions
+  + Software Development, Calculus
+  + Computer Science, Statistics and Stochastics
+  + University of Stuttgart, Germany
+* **2015:** Scientific Assistent
+  + Internship at the Low Temperature Laboratory
+  + Group of Prof. Hidenori Takagi
+  + Max-Planck Institute for Solid State Research, Germany
+* **2013 - 2015:** Software Developer
+  + Process Optimization, Application Lifecycle Management
+  + TeamViewer GmbH, Germany
+* **2010 - 2013:** Computer Science Expert
+  + Apprenticeship
+  + Test Automation, Build Optimization
+  + Siemens Industry GmbH & Co. KG, Germany
   
 Skills
 ======
