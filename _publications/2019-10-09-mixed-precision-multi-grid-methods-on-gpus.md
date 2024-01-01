@@ -2,11 +2,11 @@
 title: "Mixed-precision multi-grid methods on GPUs"
 collection: theses
 permalink: /publication/2019-10-09-mixed-precision-multi-grid-methods-on-gpus
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This theses is my bachelor theses.'
 date: 2019-10-09
 venue: 'OPUS - Publication Server of the University of Stuttgart'
-paperurl: 'https://elib.uni-stuttgart.de/bitstream/11682/12085/1/2022_02_22_Master_Thesis_Daniel_Fink.pdf'
-citation: 'Fink, Daniel. "Mixed-precision multi-grid methods on GPUs." Bachelor's thesis, 2019.'
+paperurl: 'http://dx.doi.org/10.18419/opus-10938'
+citation: 'Fink, Daniel. "Mixed-precision multi-grid methods on GPUs." Bachelor's thesis, 2019. DOI: 10.18419/opus-10938'
 ---
 **Abstract**
 
@@ -14,4 +14,4 @@ Mehrgitterverfahren kommen heutzutage in weiten Teilen des wissenschaftlichen Re
 
 [Download theses here](https://elib.uni-stuttgart.de/bitstream/11682/12085/1/2022_02_22_Master_Thesis_Daniel_Fink.pdf)
 
-Fink, Daniel. "Mixed-precision multi-grid methods on GPUs." Bachelor's thesis, 2019.
+Fink, Daniel. "Mixed-precision multi-grid methods on GPUs." Bachelor's thesis, 2019. DOI: 10.18419/opus-10938

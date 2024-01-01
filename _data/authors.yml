@@ -1,18 +1,9 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Daniel Fink:
+  name          : "Daniel Fink"
+  uri           : "https://me.dansoft.de"
+  email         : "daniel.fink.phd@gmail.com"
+  bio           : "Daniel Fink"
+  avatar        : "me.jpg"
+  googlescholar : "https://scholar.google.com/citations?user=BXB8VEQAAAAJ&hl=en&authuser=2"
