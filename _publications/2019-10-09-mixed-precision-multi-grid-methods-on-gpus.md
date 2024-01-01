@@ -6,7 +6,7 @@ excerpt: 'This theses is my bachelor theses.'
 date: 2019-10-09
 venue: 'OPUS - Publication Server of the University of Stuttgart'
 paperurl: 'http://dx.doi.org/10.18419/opus-10938'
-citation: 'Fink, Daniel. "Mixed-precision multi-grid methods on GPUs." Bachelor's thesis, 2019. DOI: 10.18419/opus-10938'
+citation: 'Fink, Daniel. "Mixed-precision multi-grid methods on GPUs." Bachelor thesis, 2019. DOI: 10.18419/opus-10938'
 ---
 ## Mixed-precision multi-grid methods on GPUs
 
