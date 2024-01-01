@@ -6,7 +6,7 @@ excerpt: 'This theses is my master theses.'
 date: 2022-02-22
 venue: 'OPUS - Publication Server of the University of Stuttgart'
 paperurl: 'http://dx.doi.org/10.18419/opus-12068'
-citation: 'Fink, Daniel. "Simulation stochastic processes with variational quantum circuits." Master thesis, 2022. DOI: 10.18419/opus-12068'
+citation: 'Fink, Daniel. &quot;Simulation stochastic processes with variational quantum circuits.&quot; Master&apos;s thesis, 2022. DOI: 10.18419/opus-12068'
 ---
 ## Simulation stochastic processes with variational quantum circuits
 
