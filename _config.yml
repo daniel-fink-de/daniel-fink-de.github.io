@@ -83,13 +83,13 @@ author:
   name             : "Daniel Fink"
   avatar           : "me.jpg"
   bio              : "CTO & Co-Founder at Leafs | Doctoral Researcher at University of Stuttgart"
-  location         : "Stuttgart, Germany"
+  location         : "Basel, CH | Stuttgart, DE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=BXB8VEQAAAAJ&hl=en&authuser=2"
   email            : "daniel.fink.phd@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : #"https://me.dansoft.de"
+  uri              : "https://me.dansoft.de"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "daniel-fink-de"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2953-7971"
   pinterest        :
   soundcloud       :
   stackoverflow    : "4180219" # http://stackoverflow.com/users/123456/username
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
