@@ -1,6 +1,6 @@
 ---
 title: "Mixed-precision multi-grid methods on GPUs"
-collection: theses
+collection: publications
 permalink: /publication/2019-10-09-mixed-precision-multi-grid-methods-on-gpus
 excerpt: 'This theses is my bachelor theses.'
 date: 2019-10-09

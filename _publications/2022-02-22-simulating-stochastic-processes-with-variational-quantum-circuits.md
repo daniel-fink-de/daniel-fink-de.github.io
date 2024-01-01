@@ -1,6 +1,6 @@
 ---
 title: "Simulation stochastic processes with variational quantum circuits"
-collection: theses
+collection: publications
 permalink: /publication/2022-02-22-simulating-stochastic-processes-with-variational-quantum-circuits
 excerpt: 'This theses is my master theses.'
 date: 2022-02-22
