@@ -2,3 +2,4 @@ _site/
 
 # custom ignores
 .idea/*
+*.DS_Store
