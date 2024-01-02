@@ -8,6 +8,6 @@ date: 2020-01-24
 location: "Stuttgart, Germany"
 ---
 
-This talk was part of the course "QML Seminar" by [Prof. Frank Leymann](https://www.iaas.uni-stuttgart.de/institut/team/Leymann/). 
+This talk was part of the course "QML Seminar".
 
 The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2020-01-24-msc-qml-seminar.pdf).
