@@ -2,6 +2,7 @@
 title: "Mixed-precision multi-grid methods on GPUs"
 collection: publications
 permalink: /publication/2019-10-09-mixed-precision-multi-grid-methods-on-gpus
+excerpt: ''
 date: 2019-10-09
 venue: 'OPUS - Publication Server of the University of Stuttgart'
 paperurl: 'https://doi.org/10.18419/opus-10938'
