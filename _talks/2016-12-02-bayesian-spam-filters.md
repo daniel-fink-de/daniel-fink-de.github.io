@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Spam Filters"
 collection: talks
-type: "Seminar"
+type: "Seminar Talk"
 permalink: /talks/2016-12-02-bayesian-spam-filters
 venue: "University of Stuttgart"
 date: 2016-12-02

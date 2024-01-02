@@ -1,7 +1,7 @@
 ---
 title: "Philosophical Question of the Quantum Theory"
 collection: talks
-type: "Seminar"
+type: "Seminar Talk"
 permalink: /talks/2017-06-28-philosophical-quantum-theory
 venue: "University of Stuttgart"
 date: 2017-06-28
