@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Experience
-======
+## Experience
 
 * **CTO & Co-Founder** @ [Leafs](https://leafs.ch) // January 2022 -- today // Basel, CH (hybrid)
   - Designing and implementing the product architecture, leading the product development, and defining technical requirements
@@ -61,8 +60,7 @@ Experience
   - Contributed to testing procedures and quality assurance protocols.
   - Assisted in documentation and report generation for project progress.
 
-Education
-======
+## Education
 
 * **Ph.D.** in Quantum Machine Learning @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // May 2022 -- today
 * **M.Sc.** in Simulation Technology @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // October 2019 -- February 2022
@@ -73,8 +71,7 @@ Education
 * **Middle School Diploma** @ [Dr. Engel Middle School of Eislingen](https://www.eislingen.de/de/Leben-in-Eislingen/Bildung/Schulen-in-Eislingen/Schule?view=publish&item=school&id=6) // February 2009 -- August 2010
 * **Middle School** @ [Geschwister Scholl Middle School of Süßen](https://schulverbund.suessen.de/,Lde/startseite/realschule.html) // September 2005 -- February 2009
 
-Honors & Awards
-======
+## Honors & Awards
 
 * **Baden-Württemberg Scholarship** // [Baden-Württemberg Foundation](https://www.bwstiftung.de) // February 2020
 * **IT-Scholarship** // [IT-Talents](https://it-talents.de) & [Materna](https://www.materna.de/) // December 2016
@@ -82,20 +79,20 @@ Honors & Awards
 * **Best Student of the Year** // [Principal of the Technical College of Stuttgart](https://www.gsih-mit-to.de/schulen-berufe/abteilung-technische-oberschule/die-to) // July 2015
 * **e-fellows Online Scholarship** // [Principal of the Technical College of Stuttgart](https://www.gsih-mit-to.de/schulen-berufe/abteilung-technische-oberschule/die-to) // July 2015
 
-Volunteer Work
-======
+## Volunteer Work
+
 * **Friends of the Technical College of Stuttgart e.V.** // Member of the board // November 2016 -- today
 * **Society of Simulation Technology e.V.** // Member of the board // April 2017 -- March 2018
 * **Student Comission of the Faculty of Civil and Environmental Engineering** // Member of the executive committee // April 2016 -- April 2018
 
-Organisations
-======
+## Organisations
+
 * **Friends of the Technical College of Stuttgart e.V.** // Member // November 2016 -- today
 * **Society of Simulation Technology e.V.** // Member // October 2015 -- today
 * **Student Council Simulation Technology** // Member // October 2015 -- February 2022
 
-Languages
-======
+## Languages
+
 * **German** (native speaker)
 * **English** (full professional proficiency)
 * **Chinese** (elementary proficiency)
