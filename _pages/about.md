@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daniel Fink - Modern Technology Enthusiast"
+title: "Daniel Fink"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -26,4 +26,4 @@ The realm of `sustainable finance` 🌿 fascinates me with its potential to addr
 
 I am driven by the desire to create new projects, to design and shape them, to bring them to market and to witness their **impact on the world**. 🎉
 
-If you share my enthusiasm for technology `let's connect`` and explore the boundless possibilities together! 🤝
+If you share my enthusiasm for technology `let's connect` and explore the boundless possibilities together! 🤝
