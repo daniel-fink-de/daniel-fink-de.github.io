@@ -10,4 +10,4 @@ location: "Stuttgart, Germany"
 
 This poster was presented at the International Conference on Data-Integrated Simulation Science at the University of Stuttgart.
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2023-10-05-poster-robustness.pdf).
+The poster can be downloaded [here](https://daniel-fink-de.github.io/files/2023-10-05-poster-robustness.pdf).

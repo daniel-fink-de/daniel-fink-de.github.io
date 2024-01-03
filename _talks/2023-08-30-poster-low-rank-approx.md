@@ -10,4 +10,4 @@ location: "Gothenburg, Sweden"
 
 This poster was presented at the workshop "Frontiers of near-term quantum computing" at the Chalmers University of Technology in Sweden.
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2023-08-30-poster-low-rank-approx.pdf).
+The poster can be downloaded [here](https://daniel-fink-de.github.io/files/2023-08-30-poster-low-rank-approx.pdf).
