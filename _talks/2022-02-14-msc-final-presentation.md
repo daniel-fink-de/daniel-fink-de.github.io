@@ -5,7 +5,7 @@ type: "Defense Talk"
 permalink: /talks/2022-02-14-msc-final-presentation
 venue: "Institute for Computational Physics, University of Stuttgart | AG Eisert, Free University of Berlin"
 date: 2022-02-14
-location: "Stuttgart, Germany"
+location: "online"
 ---
 
 This talk was the final presentation of my Master theses project.

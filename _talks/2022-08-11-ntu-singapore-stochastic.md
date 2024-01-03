@@ -5,7 +5,7 @@ type: "Seminar Talk"
 permalink: /talks/2022-08-11-ntu-singapore-stochastic
 venue: "School of Physical & Mathematical Sciences, Nanyang Technological University Singapore"
 date: 2022-08-11
-location: "Singapore (online)"
+location: "online"
 ---
 
 This talk was given in the Quantum Computing Seminar at the School of Physical & Mathematical Sciences of the Nanyang Technological University in Singapore.
