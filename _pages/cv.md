@@ -83,7 +83,7 @@ redirect_from:
 
 * **Friends of the Technical College of Stuttgart e.V.** // Member of the board // Nov. 2016 -- today
 * **Society of Simulation Technology e.V.** // Member of the board // April 2017 -- March 2018
-* **Student Comission of the Faculty IIg** // Member of the executive committee // April 2016 -- April 2018
+* **Student Comission of the Faculty II** // Member of the executive committee // April 2016 -- April 2018
 
 ## Organisations
 
