@@ -17,7 +17,7 @@ redirect_from:
   - Coordinating external teams and training domain experts to become software developers
   - Drafting comprehensive documentation including C4 Models and database schema, ensuring clarity in domain understanding
 
-* **Doctoral Researcher** @ [Institute for Computational Physics](https://www.icp.uni-stuttgart.de) // May 2022 -- today // Stuttgart, DE
+* **Doctoral Researcher** @ [Institute for Computational Physics](https://www.icp.uni-stuttgart.de) // May 2022 -- Jan. 2024 // Stuttgart, DE
   - Group of [Prof. Christian Holm](https://www.uni-stuttgart.de/presse/experten/Prof.-Dr.-Christian-Holm)
   - Conducting research in NISQ-era Quantum Machine Learning, specializing in simulating stochastic processes and enhancing time series analysis
   - Managing academic responsibilities such as supervising students, presenting at international conferences, and fostering collaborative partnerships
@@ -29,7 +29,7 @@ redirect_from:
   - Integrated quantum and classical machine learning techniques into the analysis of movie databases
   - Researched and developed novel data encoding schemes with a focus on categorical data
 
-* **Various Tutor Positions** @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // Oct. 2019 –- June 2021 // Stuttgart, DE
+* **Various Tutor Positions** @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // Oct. 2016 –- Dec. 2019 // Stuttgart, DE
   - Lectures: Software Development, Computer Science, Calculus, Statistics and Stochastics
   - Provided group tutoring to classes of 12-20 students, fostering an engaging and interactive learning environment
 
@@ -62,7 +62,7 @@ redirect_from:
 
 ## Education
 
-* **Ph.D.** in Quantum Machine Learning @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // May 2022 -- today
+* **Ph.D.** in Quantum Machine Learning @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // May 2022 -- Jan. 2024
 * **M.Sc.** in Simulation Technology @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // Oct. 2019 -- Feb. 2022
 * **Exchange Year** in Computer Science @ [National Taiwan University](https://www.ntu.edu.tw/english/) // Feb. 2020 -- March 2021
 * **B.Sc.** in Simulation Technology @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // Oct. 2015 -- Sep. 2019
