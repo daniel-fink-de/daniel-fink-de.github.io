@@ -11,6 +11,12 @@ redirect_from:
 
 ## Experience
 
+* **Solution Architect** @ [Siemens Advanta](https://www.siemens-advanta.com) // Oct. 2024 -- today // Stuttgart, DE
+
+* **Software Engineer** @ [Siemens Advanta](https://www.siemens-advanta.com) // June 2024 -- Sep. 2024 // Stuttgart, DE
+
+* **Expert in Software Architecture and Quantum ML** @ [Lean Financial Solutions](https://www.lean-fs.ch) // Apr. 2024 -- today // Basel, CH (hybrid)
+
 * **CTO & Co-Founder** @ [Leafs](https://leafs.ch) // Jan. 2022 -- today // Basel, CH (hybrid)
   - Designing and implementing the product architecture, leading the product development, and defining technical requirements
   - Managing the entire software life cycle, from conception and prototyping to ongoing development and issue resolution
