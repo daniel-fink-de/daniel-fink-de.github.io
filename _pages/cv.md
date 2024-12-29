@@ -68,7 +68,7 @@ redirect_from:
 
 ## Education
 
-* **Ph.D.** in Quantum Machine Learning @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // May 2022 -- Jan. 2024
+* (paused) **Ph.D.** in Quantum Machine Learning @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // May 2022 -- Jan. 2024
 * **M.Sc.** in Simulation Technology @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // Oct. 2019 -- Feb. 2022
 * **Exchange Year** in Computer Science @ [National Taiwan University](https://www.ntu.edu.tw/english/) // Feb. 2020 -- March 2021
 * **B.Sc.** in Simulation Technology @ [University of Stuttgart](https://www.uni-stuttgart.de/en) // Oct. 2015 -- Sep. 2019
