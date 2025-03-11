@@ -10,4 +10,4 @@ location: "online"
 
 This talk was given in the Code Quality Seminar at the Institute for Computational Physics.
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2022-10-19-eas-csharp-fundamentals.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).

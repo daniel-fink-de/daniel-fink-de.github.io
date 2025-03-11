@@ -10,4 +10,4 @@ location: "Stuttgart, Germany"
 
 This talk was part of the course "SimTech B.Sc. Research Project". 
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2018-09-17-bsc-research-project.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).

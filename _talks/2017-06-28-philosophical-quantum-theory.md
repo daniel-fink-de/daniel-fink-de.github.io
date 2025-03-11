@@ -10,4 +10,4 @@ location: "Stuttgart, Germany"
 
 This talk was part of the course "Philosophy of Science". 
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2017-06-28-philosophical-quantum-theory.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).

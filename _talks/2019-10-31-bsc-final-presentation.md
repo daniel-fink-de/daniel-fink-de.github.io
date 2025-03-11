@@ -10,4 +10,4 @@ location: "Stuttgart, Germany"
 
 This talk was the final presentation of my Bachelor theses project. 
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2019-10-31-bsc-final-presentation.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).

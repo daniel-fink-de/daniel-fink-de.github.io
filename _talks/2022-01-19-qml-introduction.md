@@ -10,4 +10,4 @@ location: "online"
 
 This talk was given to a crowd that is familier with classical ML but not with QML.
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2022-02-14-msc-final-presentation.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).

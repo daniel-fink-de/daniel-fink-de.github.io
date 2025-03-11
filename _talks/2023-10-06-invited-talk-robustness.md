@@ -10,4 +10,4 @@ location: "Stuttgart, Germany"
 
 This talk was given at the International Conference on Data-Integrated Simulation Science at the University of Stuttgart.
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2023-10-06-invited-talk-robustness.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).

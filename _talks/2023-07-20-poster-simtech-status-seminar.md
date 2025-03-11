@@ -10,4 +10,4 @@ location: "Bad Boll, Germany"
 
 This poster was presented at the Status Seminar of the Stuttgarter Center for Simulation Science 2023.
 
-The poster can be downloaded [here](https://daniel-fink-de.github.io/files/2023-07-20-poster-simtech-status-seminar.pdf).
+If you are interested in the poster, you can [contact me](mailto:daniel.fink.phd@gmail.com).

@@ -10,4 +10,4 @@ location: "Taipei, Taiwan"
 
 This talk was given in the Special Seminar at the Center for Quantum Science and Engineering of the National Taiwan University in Taiwan.
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2022-11-29-ntu-taiwan-stochastic.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).

@@ -10,4 +10,4 @@ location: "Stuttgart, Germany"
 
 This talk was part of the course "Simulation Technology B.Sc. Seminar". 
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2016-12-02-bayesian-spam-filters.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).

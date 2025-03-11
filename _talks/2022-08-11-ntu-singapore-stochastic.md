@@ -10,4 +10,4 @@ location: "online"
 
 This talk was given in the Quantum Computing Seminar at the School of Physical & Mathematical Sciences of the Nanyang Technological University in Singapore.
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2022-08-11-ntu-singapore-stochastic.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).

@@ -10,4 +10,4 @@ location: "Stuttgart, Germany"
 
 This talk was given in the Code Quality Seminar at the Institute for Computational Physics.
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2023-02-01-eas-dependency-injection.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).

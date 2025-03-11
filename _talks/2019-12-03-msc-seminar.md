@@ -10,4 +10,4 @@ location: "Stuttgart, Germany"
 
 This talk was part of the course "Simulation Technology M.Sc. Seminar". 
 
-The slides can be downloaded [here](https://daniel-fink-de.github.io/files/2019-12-03-msc-seminar.pdf).
+If you are interested in the slides, you can [contact me](mailto:daniel.fink.phd@gmail.com).
