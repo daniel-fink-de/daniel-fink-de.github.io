@@ -12,8 +12,14 @@ redirect_from:
 ## Experience
 
 * **Solution Architect** @ [Siemens Advanta](https://www.siemens-advanta.com) // Oct. 2024 -- today // Stuttgart, DE
+  - Technical lead for optimizing semiconductor manufacturing processes, including the development of interactive data visualizations 
+  - Shaped solutions in the area of financial forecasting & planning – from requirement gathering and domain modeling to prioritization and implementation guidance 
+  - Delivered in-house technology coaching with a focus on low-code platforms
+  - Facilitated workshops and supported agile team collaboration through moderation, coaching, and cross-functional alignment
 
 * **Software Engineer** @ [Siemens Advanta](https://www.siemens-advanta.com) // June 2024 -- Sep. 2024 // Stuttgart, DE
+  - Contributed to presales through requirements engineering and tailored solution architecture design 
+  - Full-stack development within an IoT solution accelerator for the manufacturing sector
 
 * **Expert in Software Architecture and Quantum ML** @ [Lean Financial Solutions](https://www.lean-fs.ch) // Apr. 2024 -- today // Basel, CH (hybrid)
 
@@ -79,6 +85,7 @@ redirect_from:
 
 ## Honors & Awards
 
+* **Outstanding Paper Award 2025** // [IEEE Control Systems Magazine](https://ieeecss.org/awards/ieee-control-systems-magazine-outstanding-paper-award) // Dec. 2025
 * **Baden-Württemberg Scholarship** // [Baden-Württemberg Foundation](https://www.bwstiftung.de) // Feb. 2020
 * **IT-Scholarship** // [IT-Talents](https://it-talents.de) & [Materna](https://www.materna.de/) // Dec. 2016
 * **Honors in Mathematics** // [German Mathematics Association](https://www.mathematik.de/en) // July 2015
