@@ -21,9 +21,9 @@ redirect_from:
   - Contributed to presales through requirements engineering and tailored solution architecture design 
   - Full-stack development within an IoT solution accelerator for the manufacturing sector
 
-* **Expert in Software Architecture and Quantum ML** @ [Lean Financial Solutions](https://www.lean-fs.ch) // Apr. 2024 -- today // Basel, CH (hybrid)
+* **Expert in Software Architecture and Quantum ML** @ [Lean Financial Solutions](https://www.lean-fs.ch) // Apr. 2024 -- Aug. 2025 // Basel, CH (hybrid)
 
-* **CTO & Co-Founder** @ [Leafs](https://leafs.ch) // Jan. 2022 -- today // Basel, CH (hybrid)
+* **CTO & Co-Founder** @ [Leafs](https://leafs.ch) // Jan. 2022 -- Aug. 2025 // Basel, CH (hybrid)
   - Designing and implementing the product architecture, leading the product development, and defining technical requirements
   - Managing the entire software life cycle, from conception and prototyping to ongoing development and issue resolution
   - Coordinating external teams and training domain experts to become software developers
@@ -100,6 +100,8 @@ redirect_from:
 
 ## Organisations
 
+* **EU-CHI – European–Chinese Association for Still Qigong e.V.** // Member // Jan. 2026 -- today
+* **Chinese School Stuttgart e.V.** // Student // Oct. 2025 -- today
 * **Friends of the Technical College of Stuttgart e.V.** // Member // Nov. 2016 -- today
 * **Society of Simulation Technology e.V.** // Member // Oct. 2015 -- today
 * **Student Council Simulation Technology** // Member // Oct. 2015 -- Feb. 2022
